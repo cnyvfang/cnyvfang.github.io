@@ -1,7 +1,5 @@
 <html xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
-	<head>
-		<title>Cheng-Yu Fang</title>
-		<meta charset="utf-8" />
+	<head>		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
