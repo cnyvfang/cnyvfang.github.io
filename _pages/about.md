@@ -76,7 +76,7 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 
 [PDF](https://arxiv.org/abs/2406.111386) [Awesome List](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The first latent diffusion model-based methods with strong generalizability in illumination degradation image restoration problems and promising performance in downstream tasks.
+- A curated list of awesome Diffusion Models(DMs) in low-level vision.
 </div>
 </div>
 
