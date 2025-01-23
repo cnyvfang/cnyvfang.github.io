@@ -36,7 +36,7 @@ My research interests include **Low-level Vision**, **Medical Image Analysis** a
 
 # 📝 Selected Publications 
 
-_$^{\*}$ Equal contribution, $^{\dagger}$ Corresponding author_
+_${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
 ## Recommendation
 
