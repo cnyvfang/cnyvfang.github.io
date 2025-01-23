@@ -45,7 +45,7 @@ _$^{\*}$ Equal contribution, $^{\dagger}$ Corresponding author_
 
 [Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network](https://arxiv.org/pdf/2406.07966)
 
-<span style="color:PaleVioletRed;">Chenyu Fang$^{\*}$</span>, Chunming He$^{\*}$†, Fengyang Xiao, Yulun Zhang$^{\dagger}$, Longxiang Tang, Yuelin Zhang, Kai Li, and Xiu Li$^{\dagger}$
+<span style="color:PaleVioletRed;">Chenyu Fang$^{\*}$</span>, Chunming He$^{\*}$$^{\dagger}$, Fengyang Xiao, Yulun Zhang$^{\dagger}$, Longxiang Tang, Yuelin Zhang, Kai Li, and Xiu Li$^{\dagger}$
 
 [PDF](https://arxiv.org/pdf/2406.07966) [Code](https://github.com/cnyvfang/CORUN-Colabator) [Slides](https://drive.google.com/file/d/1KgPnSNQYnRfCGP24N67w_eTFBsJD0iSf/view?usp=sharing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The cooperative unfolding network (CORUN) and the first plug-in-play iterative mean-teacher framework (Colabator) for real-world image dehazing.
