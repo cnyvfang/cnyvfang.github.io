@@ -147,7 +147,7 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 - *2022.06* 🥈2nd Prize of 2022 China University Robot Competition (RoboMaster)
 - *2023.08* 🥉3rd Prize in Chinese Collegiate Computing Competition
 
-# 🧑‍🤝‍🧑 My Collaborators and Friends
+# 🧑‍🤝‍🧑 My Friends and Collaborators
 - <a href="https://chunminghe.github.io">Chunming He</a>@Duke,  <a href="https://scholar.google.com/citations?hl=en&user=3oMQsq8AAAAJ">Longxiang Tang</a>@Tsinghua,  <a href="https://scholar.google.com/citations?user=Q5DbNDoAAAAJ&hl=en">Yuelin Zhang</a>@CUHK, [Dr. Yulun Zhang](https://yulunzhang.com)@SJTU, [Dr. Kai Li](http://kailigo.github.io/)@Meta.
 
 
