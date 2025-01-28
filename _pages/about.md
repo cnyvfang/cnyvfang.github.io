@@ -27,13 +27,13 @@ My research interests include **Low-level Vision**, **Medical Image Analysis** a
 <span style="color:PaleVioletRed;">I am actively seeking for research internship opportunities in either academia or industry, please feel free to contact me via email.
 
 # 🔥 News
-- *2025.01*: &nbsp; Two papers accepted to ICLR 2025.
+- *2025.01*: &nbsp; Two papers accepted to ICLR 2025. One paper accepted to ICRA 2025.
 - *2024.12*: &nbsp; One paper accepted to AAAI 2025, Congrats to Chenyang.
 - *2024.09*: &nbsp; One paper accepted to NeurIPS 2024 as a **Spotlight Paper**.
 - *2024.06*: &nbsp; I graduated from Southwest University and received the honor of "Southwest University Outstanding Student Representative".
 - *2024.02*: &nbsp; One paper accepted to CVPR 2024, Congrats to Yuelin.
 - *2023.04*: &nbsp; One paper accepted to ICMR 2023.
-
+ 
 # 📝 Selected Publications 
 
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
@@ -80,9 +80,7 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 </div>
 </div>
 
-## More Under Review
-- Motion-Guided Dual-Camera Tracker for Endoscope Tracking and Motion Analysis in a Mechanical Gastric Simulator, **arXiv 2024** [[PDF]](https://arxiv.org/pdf/2403.05146)
-  <br>Yuelin Zhang, Kim Yan, Chun Ping Lam, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Wenxuan Xie, Yufu Qiu, Raymond Shing-Yan Tang, Shing Shin Cheng$^{\dagger}$
+[//]: # (## More Under Review)
 
 ## More Accepted Papers
 
@@ -93,6 +91,8 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 [//]: # (- Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network, **NeurIPS 2024, Spotlight⭐️** [[PDF]]&#40;https://arxiv.org/pdf/2406.07966&#41; [[Code]]&#40;https://github.com/cnyvfang/CORUN-Colabator&#41; [[Slides]]&#40;https://drive.google.com/file/d/1KgPnSNQYnRfCGP24N67w_eTFBsJD0iSf/view?usp=sharing&#41;)
 
 [//]: # (  <br><span style="color:PaleVioletRed;">Chenyu Fang\*</span>, Chunming He\*$^{\dagger}$, Fengyang Xiao, Yulun Zhang$^{\dagger}$, Longxiang Tang, Yuelin Zhang, Kai Li, and Xiu Li$^{\dagger}$)
+- Motion-Guided Dual-Camera Tracker for Endoscope Tracking and Motion Analysis in a Mechanical Gastric Simulator, **ICRA 2025** [[PDF]](https://arxiv.org/pdf/2403.05146)
+  <br>Yuelin Zhang, Kim Yan, Chun Ping Lam, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Wenxuan Xie, Yufu Qiu, Raymond Shing-Yan Tang, Shing Shin Cheng$^{\dagger}$
 - Instantswap: Fast customized concept swapping across sharp shape differences, **ICLR 2025** [[PDF]](https://arxiv.org/pdf/2412.01197) [[Code]](https://instantswap.github.io/)
   <br>Chenyang Zhu$^{\*}$, Kai Li$^{\*}$$^{\dagger}$, Yue Ma$^{\*}$, Longxiang Tang, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Chubin Chen, Qifeng Chen, Xiu Li$^{\dagger}$
 - A Survey of Camouflaged Object Detection and Beyond, **CAAI AIR 2024** [[PDF]](https://www.arxiv.org/abs/2408.14562) [[Awesome List]](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)
