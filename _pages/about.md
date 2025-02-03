@@ -69,11 +69,11 @@ Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chenyu Fang$^{\*}$$^{\dag
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/images/publication/unicos.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well]()
+[Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well](https://github.com/cnyvfang/UniCOS)
 
 <span style="color:PaleVioletRed;">Chenyu Fang$^{\*}$</span>, Chunming He$^{\*}$, Longxiang Tang, Yuelin Zhang, Chenyang Zhu, Yuqi Shen, Chubin Chen, Guoxia Xu, and Xiu Li$^{\dagger}$
 
-[PDF]() [Code](https://github.com/cnyvfang/UniCOS)
+[PDF](https://github.com/cnyvfang/UniCOS) [Code](https://github.com/cnyvfang/UniCOS)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A novel framework that effectively leverages diverse data modalities to improve segmentation performance.
 </div>
