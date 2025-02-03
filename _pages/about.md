@@ -152,12 +152,12 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 - *2023.08* 🏅1st Prize of "Texas Instruments Cup" 2023 National Undergraduate Electronic Design Contest
 - *2023.08* 🏅1st Prize of "China Software Cup" University Student Software Design Competition
 - *2023.08* 🏅1st Prize of "China University Student Embedded Chip and System Design Competition
-- *2023.04* 🏅1st Prize of 2023 China University Robot Competition (RoboMaster)
+- *2023.04* 🏅1st Prize of 2023 China University Robot Competition (RoboMaster RMUL)
 - *2022.08* 🏅️1st Prize of "China Software Cup" University Student Software Design Competition
-- *2022.12* 🏅1st Prize of 2022 China University Robot Competition (RoboMaster)
+- *2022.12* 🏅1st Prize of 2022 China University Robot Competition (RoboMaster RMUL)
 - *2023.06* 🥈2nd Prize in China Robotics and Artificial Intelligence Competition
 - *2022.08* 🥈2nd Prize of "China Software Cup" University Student Software Design Competition
-- *2022.06* 🥈2nd Prize of 2022 China University Robot Competition (RoboMaster)
+- *2022.06* 🥈2nd Prize of 2022 China University Robot Competition (RoboMaster RMUT)
 - *2023.08* 🥉3rd Prize in Chinese Collegiate Computing Competition
 
 # 🧑‍🤝‍🧑 My Friends and Collaborators
