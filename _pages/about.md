@@ -45,7 +45,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
 [Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network](https://arxiv.org/pdf/2406.07966)
 
-<span style="color:PaleVioletRed;">Chenyu Fang$^{\*}$</span>, Chunming He$^{\*}$$^{\dagger}$, Fengyang Xiao, Yulun Zhang$^{\dagger}$, Longxiang Tang, Yuelin Zhang, Kai Li, and Xiu Li$^{\dagger}$
+<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Chunming He$^{\*}$$^{\dagger}$, Fengyang Xiao, Yulun Zhang$^{\dagger}$, Longxiang Tang, Yuelin Zhang, Kai Li, and Xiu Li$^{\dagger}$
 
 [PDF](https://arxiv.org/pdf/2406.07966) [Code](https://github.com/cnyvfang/CORUN-Colabator) [Slides](https://drive.google.com/file/d/1KgPnSNQYnRfCGP24N67w_eTFBsJD0iSf/view?usp=sharing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The cooperative unfolding network (CORUN) and the first plug-in-play iterative mean-teacher framework (Colabator) for real-world image dehazing.
@@ -58,7 +58,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
 [Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model](https://arxiv.org/abs/2311.11638)
 
-Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chenyu Fang$^{\*}$$^{\dagger}$</span>, Yulun Zhang$^{\dagger}$, Kai Li, Longxiang Tang, Chengyu You, Fengyang Xiao, Zhenhua Guo, Xiu Li$^{\dagger}$ and Sina Farsiu
+Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$$^{\dagger}$</span>, Yulun Zhang$^{\dagger}$, Kai Li, Longxiang Tang, Chengyu You, Fengyang Xiao, Zhenhua Guo, Xiu Li$^{\dagger}$ and Sina Farsiu
 
 [PDF](https://arxiv.org/abs/2311.11638) [Code](https://github.com/ChunmingHe/Reti-Diff)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -71,7 +71,7 @@ Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chenyu Fang$^{\*}$$^{\dag
 
 [Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well](https://github.com/cnyvfang/UniCOS)
 
-<span style="color:PaleVioletRed;">Chenyu Fang$^{\*}$</span>, Chunming He$^{\*}$, Longxiang Tang, Yuelin Zhang, Chenyang Zhu, Yuqi Shen, Chubin Chen, Guoxia Xu, and Xiu Li$^{\dagger}$
+<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Chunming He$^{\*}$, Longxiang Tang, Yuelin Zhang, Chenyang Zhu, Yuqi Shen, Chubin Chen, Guoxia Xu, and Xiu Li$^{\dagger}$
 
 [PDF](https://github.com/cnyvfang/UniCOS) [Code](https://github.com/cnyvfang/UniCOS)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -99,11 +99,11 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 
 [//]: # (- Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model, **ICLR 2025** [[PDF]]&#40;https://arxiv.org/abs/2311.11638&#41; [[Code]]&#40;https://github.com/ChunmingHe/Reti-Diff&#41;)
 
-[//]: # (  <br>Chunming He\*, <span style="color:PaleVioletRed;">Chenyu Fang\*$^{\dagger}$</span>, Yulun Zhang$^{\dagger}$, Kai Li, Longxiang Tang, Chengyu You, Fengyang Xiao, Zhenhua Guo, Xiu Li$^{\dagger}$ and Sina Farsiu)
+[//]: # (  <br>Chunming He\*, <span style="color:PaleVioletRed;">Chengyu Fang\*$^{\dagger}$</span>, Yulun Zhang$^{\dagger}$, Kai Li, Longxiang Tang, Chengyu You, Fengyang Xiao, Zhenhua Guo, Xiu Li$^{\dagger}$ and Sina Farsiu)
 
 [//]: # (- Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network, **NeurIPS 2024, Spotlight⭐️** [[PDF]]&#40;https://arxiv.org/pdf/2406.07966&#41; [[Code]]&#40;https://github.com/cnyvfang/CORUN-Colabator&#41; [[Slides]]&#40;https://drive.google.com/file/d/1KgPnSNQYnRfCGP24N67w_eTFBsJD0iSf/view?usp=sharing&#41;)
 
-[//]: # (  <br><span style="color:PaleVioletRed;">Chenyu Fang\*</span>, Chunming He\*$^{\dagger}$, Fengyang Xiao, Yulun Zhang$^{\dagger}$, Longxiang Tang, Yuelin Zhang, Kai Li, and Xiu Li$^{\dagger}$)
+[//]: # (  <br><span style="color:PaleVioletRed;">Chengyu Fang\*</span>, Chunming He\*$^{\dagger}$, Fengyang Xiao, Yulun Zhang$^{\dagger}$, Longxiang Tang, Yuelin Zhang, Kai Li, and Xiu Li$^{\dagger}$)
 - Motion-Guided Dual-Camera Tracker for Endoscope Tracking and Motion Analysis in a Mechanical Gastric Simulator, **ICRA 2025** [[PDF]](https://arxiv.org/pdf/2403.05146)
   <br>Yuelin Zhang, Kim Yan, Chun Ping Lam, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Wenxuan Xie, Yufu Qiu, Raymond Shing-Yan Tang, Shing Shin Cheng$^{\dagger}$
 - Instantswap: Fast customized concept swapping across sharp shape differences, **ICLR 2025** [[PDF]](https://arxiv.org/pdf/2412.01197) [[Code]](https://instantswap.github.io/)
