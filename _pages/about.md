@@ -27,6 +27,7 @@ My research interests include **Low-level Vision**, **Medical Image Analysis** a
 <span style="color:PaleVioletRed;">I am actively seeking for research internship opportunities in either academia or industry, please feel free to contact me via email.
 
 # 🔥 News
+- *2025.02*: &nbsp; One paper has been selected as a **Spotlight Paper** by the ICLR.
 - *2025.01*: &nbsp; Two papers accepted to ICLR 2025. One paper accepted to ICRA 2025.
 - *2024.12*: &nbsp; One paper accepted to AAAI 2025, Congrats to Chenyang.
 - *2024.09*: &nbsp; One paper accepted to NeurIPS 2024 as a **Spotlight Paper**.
@@ -53,7 +54,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/images/publication/reti-diff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Spotlight⭐</div><img src='images/images/publication/reti-diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model](https://arxiv.org/abs/2311.11638)
