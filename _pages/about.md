@@ -88,7 +88,7 @@ Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$$^{\da
 
 Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li$^{\dagger}$
 
-[PDF](https://arxiv.org/abs/2406.111386) [Awesome List](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)
+[PDF](https://arxiv.org/abs/2406.11138) [Awesome List](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A curated list of awesome Diffusion Models(DMs) in low-level vision.
 </div>
