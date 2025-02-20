@@ -27,6 +27,7 @@ My research interests include **Low-level Vision**, **Medical Image Analysis** a
 <span style="color:PaleVioletRed;">I am actively seeking for research internship opportunities in either academia or industry, please feel free to contact me via email.
 
 # 🔥 News
+- *2025.02*: &nbsp; One paper accepted to IEEE TPAMI(IF=20.8), Congrats to Chunming and Yuqi!
 - *2025.02*: &nbsp; One paper has been selected as a **Spotlight Paper** to the ICLR 2025.
 - *2025.01*: &nbsp; Two papers accepted to ICLR 2025. One paper accepted to ICRA 2025.
 - *2024.12*: &nbsp; One paper accepted to AAAI 2025, Congrats to Chenyang.
@@ -81,7 +82,7 @@ Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$$^{\da
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/images/publication/llv_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/images/publication/llv_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Diffusion Models in Low-Level Vision: A Survey](https://arxiv.org/pdf/2406.11138)
