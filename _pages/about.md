@@ -72,7 +72,7 @@ Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$$^{\da
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/images/publication/unicos.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well](https://github.com/cnyvfang/UniCOS)
+[Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well](http://arxiv.org/abs/2502.14471)
 
 <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Chunming He$^{\*}$, Longxiang Tang, Yuelin Zhang, Chenyang Zhu, Yuqi Shen, Chubin Chen, Guoxia Xu, and Xiu Li$^{\dagger}$
 
