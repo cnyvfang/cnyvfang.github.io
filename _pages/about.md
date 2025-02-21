@@ -76,7 +76,7 @@ Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$$^{\da
 
 <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Chunming He$^{\*}$, Longxiang Tang, Yuelin Zhang, Chenyang Zhu, Yuqi Shen, Chubin Chen, Guoxia Xu, and Xiu Li$^{\dagger}$
 
-[PDF](https://github.com/cnyvfang/UniCOS) [Code](https://github.com/cnyvfang/UniCOS)
+[PDF](http://arxiv.org/abs/2502.14471) [Code](https://github.com/cnyvfang/UniCOS)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A novel framework that effectively leverages diverse data modalities to improve segmentation performance.
 </div>
