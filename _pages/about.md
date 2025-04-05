@@ -150,7 +150,7 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 
 # 💻 Internships
 - *2025.04 - Present*, Alibaba DAMO Academy, Hangzhou, China.
-- *2023.07 - 2024.08*, Prof. Xiu Li’s [research group](https://thusigsclub.github.io/thu.github.io/index.html) at Tsinghua University, Shen Zhen, China.
+- *2023.07 - 2024.08*, Prof. Xiu Li’s [research group](https://thusigsclub.github.io/thu.github.io/index.html) at Tsinghua University, Shenzhen, China.
 
 # 🏁 Competition
 
