@@ -22,9 +22,9 @@ redirect_from:
 I am a first-year master student at Institute of Data and Information, Tsinghua University, under the supervision of <a href="https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&amp;hl=en">Prof. Xiu Li</a>.
 Previously, I obtained my B.Eng in Software Engineering at School of Computer and Information Science & School of Software Engineering, Southwest University in 2024.
 
-My research interests include **Low-level Vision**, **Medical Image Analysis** and **Camouflaged Object Segmentation**. 
+My research interests include **Low-level Vision**, **Medical AI** and **Camouflaged Object Segmentation**. 
 
-<span style="color:PaleVioletRed;">I am actively seeking for research internship opportunities in either academia or industry, please feel free to contact me via email.
+<span style="color:PaleVioletRed;">I’m open to any kinds of collaboration. Please feel free to contact me directly through email.</span>
 
 # 🔥 News
 - *2025.02*: &nbsp; One paper accepted to IEEE TPAMI(IF=20.8). Congrats to Chunming and Yuqi!
@@ -149,6 +149,7 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 💻 Internships
+- *2025.04 - Present*, Alibaba DAMO Academy, Hangzhou, China.
 - *2023.07 - 2024.08*, Prof. Xiu Li’s [research group](https://thusigsclub.github.io/thu.github.io/index.html) at Tsinghua University, Shen Zhen, China.
 
 # 🏁 Competition
