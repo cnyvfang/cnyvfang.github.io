@@ -116,8 +116,10 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
   <br>Fengyang Xiao$^{\*}$, Sujie Hu$^{\*}$, Yuqi Shen, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Jinfa Huang, Chunming He$^{\dagger}$, Longxiang Tang, Ziyun Yang, Xiu Li$^{\dagger}$
 - A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning, **CVPR 2024** [[PDF]](https://arxiv.org/pdf/2403.02611) [[Code]](https://github.com/PieceZhang/MPT-CataBlur/)
   <br>Yuelin Zhang, Pengyu Zheng, Wanquan Yan, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Shing Shin Cheng$^{\dagger}$
-- Joint Geometric-Semantic Driven Character Line Drawing Generation, **ACM ICMR 2023** [[PDF]](https://dl.acm.org/doi/10.1145/3591106.3592216) [[Code]](https://github.com/cnyvfang/P2LDGAN/)
-  <br><span style="color:PaleVioletRed;">Chengyu Fang</span>, Xianfeng Han$^{\dagger}$
+
+[//]: # (- Joint Geometric-Semantic Driven Character Line Drawing Generation, **ACM ICMR 2023** [[PDF]]&#40;https://dl.acm.org/doi/10.1145/3591106.3592216&#41; [[Code]]&#40;https://github.com/cnyvfang/P2LDGAN/&#41;)
+
+[//]: # (  <br><span style="color:PaleVioletRed;">Chengyu Fang</span>, Xianfeng Han$^{\dagger}$)
 
 
 # 🎖 Honors and Awards
