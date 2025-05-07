@@ -35,7 +35,8 @@ My research interests include **Low-level Vision**, **Medical AI** and **Camoufl
 - *2024.09*: &nbsp; One paper accepted to NeurIPS 2024 as a **Spotlight Paper**.
 - *2024.06*: &nbsp; I graduated from Southwest University and received the honor of "Southwest University Outstanding Student Representative".
 - *2024.02*: &nbsp; One paper accepted to CVPR 2024, Congrats to Yuelin.
-- *2023.04*: &nbsp; One paper accepted to ICMR 2023.
+
+[//]: # (- *2023.04*: &nbsp; One paper accepted to ICMR 2023.)
  
 # 📝 Selected Publications 
 
