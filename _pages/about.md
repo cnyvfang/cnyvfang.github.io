@@ -108,7 +108,7 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 [//]: # (- Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network, **NeurIPS 2024, Spotlight⭐️** [[PDF]]&#40;https://arxiv.org/pdf/2406.07966&#41; [[Code]]&#40;https://github.com/cnyvfang/CORUN-Colabator&#41; [[Slides]]&#40;https://drive.google.com/file/d/1KgPnSNQYnRfCGP24N67w_eTFBsJD0iSf/view?usp=sharing&#41;)
 
 [//]: # (  <br><span style="color:PaleVioletRed;">Chengyu Fang\*</span>, Chunming He\*$^{\dagger}$, Fengyang Xiao, Yulun Zhang$^{\dagger}$, Longxiang Tang, Yuelin Zhang, Kai Li, and Xiu Li$^{\dagger}$)
-- UnfoldIR Rethinking Deep Unfolding Network in Illumination Degradation Image Restoration, **arXiv 2025** [[PDF]](https://arxiv.org/pdf/2505.06683)
+- UnfoldIR: Rethinking Deep Unfolding Network in Illumination Degradation Image Restoration, **arXiv 2025** [[PDF]](https://arxiv.org/pdf/2505.06683)
   <br>Chunming He$^{\*}$, Rihan Zhang$^{\*}$, Fengyang Xiao, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Longxiang Tang, Yulun Zhang, Sina Farsiu$^{\dagger}$
 - RUN: Reversible Unfolding Network for Concealed Object Segmentation, **ICML 2025** [[PDF]](https://arxiv.org/pdf/2501.18783)
   <br>Chunming He, Rihan Zhang, Fengyang Xiao, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Longxiang Tang, Yulun Zhang, Linghe Kong, Deng-Ping Fan, Kai Li, Sina Farsiu$^{\dagger}$
