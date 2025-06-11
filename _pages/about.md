@@ -27,6 +27,7 @@ My research interests include **Low-level Vision**, **Medical AI** and **Camoufl
 <span style="color:PaleVioletRed;">I’m open to any kinds of collaboration. Please feel free to contact me directly through email.</span>
 
 # 🔥 News
+- *2025.06*: &nbsp; One paper accepted to TPAMI(IF=20.8). Congrats to Chunming!
 - *2025.05*: &nbsp; One paper accepted to ICML 2025. Congrats to Chunming!
 - *2025.02*: &nbsp; One paper accepted to IEEE TPAMI(IF=20.8). Congrats to Chunming and Yuqi!
 - *2025.02*: &nbsp; One paper has been selected as a **Spotlight Paper** to the ICLR 2025.
