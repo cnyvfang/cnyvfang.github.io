@@ -111,19 +111,19 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 [//]: # (  <br><span style="color:PaleVioletRed;">Chengyu Fang\*</span>, Chunming He\*$^{\dagger}$, Fengyang Xiao, Yulun Zhang$^{\dagger}$, Longxiang Tang, Yuelin Zhang, Kai Li, and Xiu Li$^{\dagger}$)
 
 - Segment Concealed Objects with Incomplete Supervision, **TPAMI 2025** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11023026/)
-  <br>Chunming He$^{\*}$, Kai Li$^{\*}$, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu$^{\dagger}$
+  Chunming He$^{\*}$, Kai Li$^{\*}$, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu$^{\dagger}$
 - UnfoldIR: Rethinking Deep Unfolding Network in Illumination Degradation Image Restoration, **arXiv 2025** [[PDF]](https://arxiv.org/pdf/2505.06683)
-  <br>Chunming He$^{\*}$, Rihan Zhang$^{\*}$, Fengyang Xiao, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Longxiang Tang, Yulun Zhang, Sina Farsiu$^{\dagger}$
+  Chunming He$^{\*}$, Rihan Zhang$^{\*}$, Fengyang Xiao, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Longxiang Tang, Yulun Zhang, Sina Farsiu$^{\dagger}$
 - RUN: Reversible Unfolding Network for Concealed Object Segmentation, **ICML 2025** [[PDF]](https://arxiv.org/pdf/2501.18783)
-  <br>Chunming He, Rihan Zhang, Fengyang Xiao, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Longxiang Tang, Yulun Zhang, Linghe Kong, Deng-Ping Fan, Kai Li, Sina Farsiu$^{\dagger}$
+  Chunming He, Rihan Zhang, Fengyang Xiao, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Longxiang Tang, Yulun Zhang, Linghe Kong, Deng-Ping Fan, Kai Li, Sina Farsiu$^{\dagger}$
 - Motion-Guided Dual-Camera Tracker for Endoscope Tracking and Motion Analysis in a Mechanical Gastric Simulator, **ICRA 2025** [[PDF]](https://arxiv.org/pdf/2403.05146)
-  <br>Yuelin Zhang, Kim Yan, Chun Ping Lam, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Wenxuan Xie, Yufu Qiu, Raymond Shing-Yan Tang, Shing Shin Cheng$^{\dagger}$
+  Yuelin Zhang, Kim Yan, Chun Ping Lam, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Wenxuan Xie, Yufu Qiu, Raymond Shing-Yan Tang, Shing Shin Cheng$^{\dagger}$
 - Instantswap: Fast customized concept swapping across sharp shape differences, **ICLR 2025** [[PDF]](https://arxiv.org/pdf/2412.01197) [[Code]](https://instantswap.github.io/)
-  <br>Chenyang Zhu$^{\*}$, Kai Li$^{\*}$$^{\dagger}$, Yue Ma$^{\*}$, Longxiang Tang, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Chubin Chen, Qifeng Chen, Xiu Li$^{\dagger}$
+  Chenyang Zhu$^{\*}$, Kai Li$^{\*}$$^{\dagger}$, Yue Ma$^{\*}$, Longxiang Tang, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Chubin Chen, Qifeng Chen, Xiu Li$^{\dagger}$
 - A Survey of Camouflaged Object Detection and Beyond, **CAAI AIR 2024** [[PDF]](https://www.arxiv.org/abs/2408.14562) [[Awesome List]](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)
-  <br>Fengyang Xiao$^{\*}$, Sujie Hu$^{\*}$, Yuqi Shen, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Jinfa Huang, Chunming He$^{\dagger}$, Longxiang Tang, Ziyun Yang, Xiu Li$^{\dagger}$
+  Fengyang Xiao$^{\*}$, Sujie Hu$^{\*}$, Yuqi Shen, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Jinfa Huang, Chunming He$^{\dagger}$, Longxiang Tang, Ziyun Yang, Xiu Li$^{\dagger}$
 - A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning, **CVPR 2024** [[PDF]](https://arxiv.org/pdf/2403.02611) [[Code]](https://github.com/PieceZhang/MPT-CataBlur/)
-  <br>Yuelin Zhang, Pengyu Zheng, Wanquan Yan, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Shing Shin Cheng$^{\dagger}$
+  Yuelin Zhang, Pengyu Zheng, Wanquan Yan, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Shing Shin Cheng$^{\dagger}$
 
 [//]: # (- Joint Geometric-Semantic Driven Character Line Drawing Generation, **ACM ICMR 2023** [[PDF]]&#40;https://dl.acm.org/doi/10.1145/3591106.3592216&#41; [[Code]]&#40;https://github.com/cnyvfang/P2LDGAN/&#41;)
 
