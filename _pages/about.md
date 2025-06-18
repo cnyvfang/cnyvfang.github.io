@@ -19,8 +19,10 @@ redirect_from:
 
 # ☕️ About Me
 
-I am a first-year master student at Institute of Data and Information, Tsinghua University, under the supervision of <a href="https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&amp;hl=en">Prof. Xiu Li</a>.
+I am a first-year master student at Institute of Data and Information, Tsinghua University, under the supervision of <a href="https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&amp;hl=en">Prof. Xiu Li</a>. 
 Previously, I obtained my B.Eng in Software Engineering at School of Computer and Information Science & School of Software Engineering, Southwest University in 2024.
+Currently, I am conducting research on Medical AI and Multimodal Large Models at the Alibaba DAMO Academy.
+
 
 My research interests include **Low-level Vision**, **Medical AI** and **Camouflaged Object Segmentation**. 
 
@@ -109,7 +111,8 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 [//]: # (- Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network, **NeurIPS 2024, Spotlight⭐️** [[PDF]]&#40;https://arxiv.org/pdf/2406.07966&#41; [[Code]]&#40;https://github.com/cnyvfang/CORUN-Colabator&#41; [[Slides]]&#40;https://drive.google.com/file/d/1KgPnSNQYnRfCGP24N67w_eTFBsJD0iSf/view?usp=sharing&#41;)
 
 [//]: # (  <br><span style="color:PaleVioletRed;">Chengyu Fang\*</span>, Chunming He\*$^{\dagger}$, Fengyang Xiao, Yulun Zhang$^{\dagger}$, Longxiang Tang, Yuelin Zhang, Kai Li, and Xiu Li$^{\dagger}$)
-
+- Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement , **arXiv 2025** [[PDF]](https://arxiv.org/pdf/2506.10712/)
+  Yuqi Shen$^{\*}$, Fengyang Xiao$^{\*}$, Sujie Hu, Youwei Pang, Yifan Pu, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Xiu Li, Chunming He 
 - Segment Concealed Objects with Incomplete Supervision, **TPAMI 2025** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11023026/)
   Chunming He$^{\*}$, Kai Li$^{\*}$, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu$^{\dagger}$
 - UnfoldIR: Rethinking Deep Unfolding Network in Illumination Degradation Image Restoration, **arXiv 2025** [[PDF]](https://arxiv.org/pdf/2505.06683)
