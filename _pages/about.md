@@ -104,13 +104,6 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 
 ## More Papers
 
-[//]: # (- Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model, **ICLR 2025** [[PDF]]&#40;https://arxiv.org/abs/2311.11638&#41; [[Code]]&#40;https://github.com/ChunmingHe/Reti-Diff&#41;)
-
-[//]: # (  <br>Chunming He\*, <span style="color:PaleVioletRed;">Chengyu Fang\*$^{\dagger}$</span>, Yulun Zhang$^{\dagger}$, Kai Li, Longxiang Tang, Chengyu You, Fengyang Xiao, Zhenhua Guo, Xiu Li$^{\dagger}$ and Sina Farsiu)
-
-[//]: # (- Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network, **NeurIPS 2024, Spotlight⭐️** [[PDF]]&#40;https://arxiv.org/pdf/2406.07966&#41; [[Code]]&#40;https://github.com/cnyvfang/CORUN-Colabator&#41; [[Slides]]&#40;https://drive.google.com/file/d/1KgPnSNQYnRfCGP24N67w_eTFBsJD0iSf/view?usp=sharing&#41;)
-
-[//]: # (  <br><span style="color:PaleVioletRed;">Chengyu Fang\*</span>, Chunming He\*$^{\dagger}$, Fengyang Xiao, Yulun Zhang$^{\dagger}$, Longxiang Tang, Yuelin Zhang, Kai Li, and Xiu Li$^{\dagger}$)
 - Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement , **arXiv 2025** [[PDF]](https://arxiv.org/pdf/2506.10712/)
   Yuqi Shen$^{\*}$, Fengyang Xiao$^{\*}$, Sujie Hu, Youwei Pang, Yifan Pu, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Xiu Li, Chunming He 
 - Segment Concealed Objects with Incomplete Supervision, **TPAMI 2025** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11023026/)
