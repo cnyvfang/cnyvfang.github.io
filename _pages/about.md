@@ -25,7 +25,7 @@ Currently, I am conducting research on Medical AI and Multimodal Large Language 
 
 My research interests include **Low-level/High-level Computer Vision**, **Medical AI** and **Efficient MLLM**.
 
-<span style="color:PaleVioletRed;">I am currently seeking PhD opportunities for Fall 2027 and am open to any form of collaboration. Please feel free to contact me directly via email.</span>
+<span style="color:PaleVioletRed;">I am currently seeking PhD positions for Fall 2027 and open to all forms of collaboration. Please feel free to contact me directly via email.</span>
 
 # 🔥 News
 - *2025.06*: &nbsp; One paper accepted to TPAMI(IF=20.8). Congrats to Chunming!
