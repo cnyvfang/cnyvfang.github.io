@@ -21,12 +21,11 @@ redirect_from:
 
 I am a first-year master student at Institute of Data and Information, Tsinghua University, under the supervision of <a href="https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&amp;hl=en">Prof. Xiu Li</a>. 
 Previously, I obtained my B.Eng in Software Engineering at School of Computer and Information Science & School of Software Engineering, Southwest University in 2024.
-Currently, I am conducting research on Medical AI and Multimodal Large Language Models at the Alibaba DAMO Academy.
+Currently, I am conducting research on Medical AI and Multimodal Large Language Models at the Alibaba DAMO Academy as a research intern.
 
+My research interests include **Low-level/High-level Computer Vision**, **Medical AI** and **Efficient MLLM**.
 
-My research interests include **Low-level Vision**, **Medical AI** and **Camouflaged Object Segmentation**. 
-
-<span style="color:PaleVioletRed;">I’m open to any kinds of collaboration. Please feel free to contact me directly through email.</span>
+<span style="color:PaleVioletRed;">I am currently seeking PhD opportunities for Fall 2027 and am open to any form of collaboration. Please feel free to contact me directly via email.</span>
 
 # 🔥 News
 - *2025.06*: &nbsp; One paper accepted to TPAMI(IF=20.8). Congrats to Chunming!
