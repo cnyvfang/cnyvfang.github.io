@@ -23,7 +23,7 @@ I am a first-year master student at Institute of Data and Information, Tsinghua 
 Previously, I obtained my B.Eng in Software Engineering at School of Computer and Information Science & School of Software Engineering, Southwest University in 2024.
 Currently, I am conducting research on Medical AI and Multimodal Large Language Models at the Alibaba DAMO Academy as a research intern.
 
-My research interests include **Low-level/High-level Computer Vision**, **Medical AI** and **Efficient MLLM**.
+My research interests include **Real World Oriented Computer Vision**, **Medical AI** and **Efficient MLLM**.
 
 <span style="color:PaleVioletRed;">I am currently seeking PhD positions for Fall 2027 and open to all forms of collaboration. Please feel free to contact me directly via email.</span>
 
@@ -119,6 +119,7 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
   Fengyang Xiao$^{\*}$, Sujie Hu$^{\*}$, Yuqi Shen, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Jinfa Huang, Chunming He$^{\dagger}$, Longxiang Tang, Ziyun Yang, Xiu Li$^{\dagger}$
 - A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning, **CVPR 2024** [[PDF]](https://arxiv.org/pdf/2403.02611) [[Code]](https://github.com/PieceZhang/MPT-CataBlur/)
   Yuelin Zhang, Pengyu Zheng, Wanquan Yan, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Shing Shin Cheng$^{\dagger}$
+
 
 [//]: # (- Joint Geometric-Semantic Driven Character Line Drawing Generation, **ACM ICMR 2023** [[PDF]]&#40;https://dl.acm.org/doi/10.1145/3591106.3592216&#41; [[Code]]&#40;https://github.com/cnyvfang/P2LDGAN/&#41;)
 
