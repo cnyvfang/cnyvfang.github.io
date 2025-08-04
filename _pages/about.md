@@ -171,7 +171,7 @@ _You can find more paper in my [Google Scholar](https://scholar.google.com/citat
 - *2023.08* 🥉3rd Prize in Chinese Collegiate Computing Competition
 
 # 🧑‍🤝‍🧑 My Friends and Collaborators
-- <a href="https://chunminghe.github.io">Chunming He</a>@Duke,  <a href="https://scholar.google.com/citations?hl=en&user=3oMQsq8AAAAJ">Longxiang Tang</a>@Tsinghua,  <a href="https://scholar.google.com/citations?user=Q5DbNDoAAAAJ&hl=en">Yuelin Zhang</a>@CUHK, [Dr. Yulun Zhang](https://yulunzhang.com)@SJTU.
+- <a href="https://chunminghe.github.io">Chunming He</a>@Duke,  <a href="https://scholar.google.com/citations?hl=en&user=3oMQsq8AAAAJ">Longxiang Tang</a>@Tsinghua,  <a href="https://scholar.google.com/citations?user=Q5DbNDoAAAAJ&hl=en">Yuelin Zhang</a>@CUHK, [Assoc. Prof. Yulun Zhang](https://yulunzhang.com)@SJTU.
 
 
 ---
