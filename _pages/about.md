@@ -99,6 +99,20 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/images/publication/m3ret.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[M3Ret: Unleashing Zero-shot Multimodal Medical Image Retrieval via Self-Supervision](https://arxiv.org/pdf/2509.01360)
+
+Che Liu$^{\*}$, Zheng Jiang$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Heng Guo, Yan-Jie Zhou, Jiaqi Qu, Le Lu, Minfeng Xu$^{\dagger}$
+
+[PDF](https://arxiv.org/pdf/2509.01360)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A unified visual encoder without any modality-specific customization for various medical visual modalities in 2D and 3D.
+</div>
+</div>
+
 [//]: # (## More Under Review)
 
 ## More Selected Papers
