@@ -72,12 +72,12 @@ Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$$^{\da
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/images/publication/unicos.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/images/publication/multicos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well](http://arxiv.org/abs/2502.14471)
+[MultiCOS: Unlocking the Potential of Limited Multimodal Data in Camouflaged Object Segmentation](http://arxiv.org/abs/2502.14471)
 
-<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Chunming He$^{\*}$, Longxiang Tang, Yuelin Zhang, Chenyang Zhu, Yuqi Shen, Chubin Chen, Guoxia Xu, and Xiu Li$^{\dagger}$
+<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Chunming He$^{\*}$, Yuqi Shen, Chenyang Zhu, Yuelin Zhang, Fengyang Xiao, Longxiang Tang, Chubin Chen, Xiu Li$^{\dagger}$
 
 [PDF](http://arxiv.org/abs/2502.14471) [Code](https://github.com/cnyvfang/UniCOS)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
