@@ -100,6 +100,20 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/images/publication/photon.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Photon: Speedup Volume Understanding with Efficient Multimodal Large Language Models](#)
+
+<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Heng Guo$^{\*}$, Zheng Jiang, Chunming He, Xiu Li, Minfeng Xu$^{\dagger}$
+
+[PDF](#)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Photon is a variable-length 3D medical VQA framework with instruction-conditioned token scheduling and surrogate gradients, achieving adaptive acceleration and state-of-the-art performance.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/images/publication/m3ret.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -170,6 +184,14 @@ _You can find more paper in my [Google Scholar](https://scholar.google.com/citat
 # 💻 Internships
 - *2025.04 - Present*, Alibaba DAMO Academy, Hangzhou, China.
 - *2023.07 - 2024.08*, Prof. Xiu Li’s [research group](https://thusigsclub.github.io/thu.github.io/index.html) at Tsinghua University, Shenzhen, China.
+
+
+[//]: # (# 🤝 Academic services)
+
+[//]: # (- *Conference Reviewer: * NeurIPS, ICLR, ICRA, ACM MM, ACM MM Asia, BMVC, )
+
+[//]: # (- *Journal Reviewer: * TCSVT, PR, )
+
 
 # 🏁 Competition
 
