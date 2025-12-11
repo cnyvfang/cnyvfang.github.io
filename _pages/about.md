@@ -105,7 +105,7 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 
 [Photon: Speedup Volume Understanding with Efficient Multimodal Large Language Models](#)
 
-<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Heng Guo$^{\*}$, Zheng Jiang, Chunming He, Xiu Li, Minfeng Xu$^{\dagger}$
+<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Heng Guo$^{\*}$, Zheng Jiang, Chunming He, Xiu Li$^{\dagger}$, Minfeng Xu$^{\dagger}$
 
 [PDF](#)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
