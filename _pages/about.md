@@ -28,6 +28,7 @@ My research interests include **Real World Oriented Computer Vision**, **Medical
 <span style="color:PaleVioletRed;">I am currently seeking PhD positions for Fall 2027 and open to all forms of collaboration. Please feel free to contact me directly via email.</span>
 
 # 🔥 News
+- *2026.01*: &nbsp; Two papers accepted to ICLR 2026. Congrats to Zheng Jiang and Heng Guo!
 - *2025.06*: &nbsp; One paper accepted to TPAMI(IF=20.8). Congrats to Chunming!
 - *2025.05*: &nbsp; One paper accepted to ICML 2025. Congrats to Chunming!
 - *2025.02*: &nbsp; One paper accepted to IEEE TPAMI(IF=20.8). Congrats to Chunming and Yuqi!
@@ -53,7 +54,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
 <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Chunming He$^{\*}$$^{\dagger}$, Fengyang Xiao, Yulun Zhang$^{\dagger}$, Longxiang Tang, Yuelin Zhang, Kai Li, and Xiu Li$^{\dagger}$
 
-[PDF](https://arxiv.org/pdf/2406.07966) [Code](https://github.com/cnyvfang/CORUN-Colabator) [Slides](https://drive.google.com/file/d/1KgPnSNQYnRfCGP24N67w_eTFBsJD0iSf/view?usp=sharing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The cooperative unfolding network (CORUN) and the first plug-in-play iterative mean-teacher framework (Colabator) for real-world image dehazing.
 </div>
 </div>
@@ -66,9 +67,20 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
 Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$$^{\dagger}$</span>, Yulun Zhang$^{\dagger}$, Kai Li, Longxiang Tang, Chengyu You, Fengyang Xiao, Zhenhua Guo, Xiu Li and Sina Farsiu$^{\dagger}$
 
-[PDF](https://arxiv.org/abs/2311.11638) [Code](https://github.com/ChunmingHe/Reti-Diff)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The first latent diffusion model-based methods with strong generalizability in illumination degradation image restoration problems and promising performance in downstream tasks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/images/publication/photon.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Photon: Speedup Volume Understanding with Efficient Multimodal Large Language Models](https://openreview.net/pdf?id=xsSJw6jJBL)
+
+<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Heng Guo$^{\*}$, Zheng Jiang, Chunming He, Xiu Li$^{\dagger}$, Minfeng Xu$^{\dagger}$
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Photon is a variable-length 3D medical VQA framework with instruction-conditioned token scheduling and surrogate gradients, achieving adaptive acceleration and state-of-the-art performance.
 </div>
 </div>
 
@@ -79,7 +91,6 @@ Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$$^{\da
 
 <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Chunming He$^{\*}$, Yuqi Shen, Chenyang Zhu, Yuelin Zhang, Fengyang Xiao, Longxiang Tang, Chubin Chen, Xiu Li$^{\dagger}$
 
-[PDF](http://arxiv.org/abs/2502.14471) [Code](https://github.com/cnyvfang/UniCOS)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A novel framework that effectively leverages diverse data modalities to improve segmentation performance.
 </div>
@@ -93,23 +104,8 @@ Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$$^{\da
 
 Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li$^{\dagger}$
 
-[PDF](https://arxiv.org/abs/2406.11138) [Awesome List](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A curated list of awesome Diffusion Models(DMs) in low-level vision.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/images/publication/photon.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Photon: Speedup Volume Understanding with Efficient Multimodal Large Language Models](#)
-
-<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Heng Guo$^{\*}$, Zheng Jiang, Chunming He, Xiu Li$^{\dagger}$, Minfeng Xu$^{\dagger}$
-
-[PDF](#)
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Photon is a variable-length 3D medical VQA framework with instruction-conditioned token scheduling and surrogate gradients, achieving adaptive acceleration and state-of-the-art performance.
 </div>
 </div>
 
@@ -121,7 +117,6 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 
 Che Liu$^{\*}$, Zheng Jiang$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Heng Guo, Yan-Jie Zhou, Jiaqi Qu, Le Lu, Minfeng Xu$^{\dagger}$
 
-[PDF](https://arxiv.org/pdf/2509.01360)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A unified visual encoder without any modality-specific customization for various medical visual modalities in 2D and 3D.
 </div>
