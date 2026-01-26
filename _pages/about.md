@@ -21,7 +21,7 @@ redirect_from:
 
 I am a second-year master student at Institute of Data and Information, Tsinghua University, under the supervision of <a href="https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&amp;hl=en">Prof. Xiu Li</a>. 
 Previously, I obtained my B.Eng in Software Engineering at School of Computer and Information Science & School of Software Engineering, Southwest University in 2024.
-Currently, I am conducting research on Medical AI and Multimodal Large Language Models at the Alibaba DAMO Academy as a research intern. My research interests include **Real World Oriented Computer Vision**, **Medical AI** and **Efficient MLLM**.
+Currently, I am conducting research on Medical AI and Multimodal Large Language Models at the Alibaba DAMO Academy as a research intern. My research interests include **Real World Oriented Computer Vision**, **Efficient MLLM**, **Medical AI**.
 
 <span style="color:PaleVioletRed;">I am currently seeking PhD positions for Fall 2027 and open to all forms of collaboration. Please feel free to contact me directly via email or Linkedin.</span>
 
