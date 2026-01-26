@@ -125,8 +125,9 @@ Che Liu$^{\*}$, Zheng Jiang$^{\*}$, <span style="color:PaleVioletRed;">Chengyu F
 [//]: # (## More Under Review)
 
 ## More Selected Papers
-
-- Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement , **arXiv 2025** [[PDF]](https://arxiv.org/pdf/2506.10712/) 
+- MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning, **ICLR 2026** [[PDF]](https://openreview.net/pdf?id=cK35kNVm5r)
+  Zheng Jiang, Heng Guo, Chengyu Fang, Changchen Xiao, Xinyang Hu, Lifeng Sun, Minfeng Xu
+- Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement, **arXiv 2025** [[PDF]](https://arxiv.org/pdf/2506.10712/) 
   Yuqi Shen$^{\*}$, Fengyang Xiao$^{\*}$, Sujie Hu, Youwei Pang, Yifan Pu, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Xiu Li, Chunming He 
 - Segment Concealed Objects with Incomplete Supervision, **TPAMI 2025** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11023026/)
   Chunming He$^{\*}$, Kai Li$^{\*}$, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu$^{\dagger}$
