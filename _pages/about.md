@@ -134,11 +134,11 @@ Che Liu$^{\*}$, Zheng Jiang$^{\*}$, <span style="color:PaleVioletRed;">Chengyu F
   Chunming He$^{\*}$, Rihan Zhang$^{\*}$, Fengyang Xiao, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Longxiang Tang, Yulun Zhang, Sina Farsiu$^{\dagger}$
 - RUN: Reversible Unfolding Network for Concealed Object Segmentation, **ICML 2025** [[PDF]](https://arxiv.org/pdf/2501.18783)
   Chunming He, Rihan Zhang, Fengyang Xiao, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Longxiang Tang, Yulun Zhang, Linghe Kong, Deng-Ping Fan, Kai Li, Sina Farsiu$^{\dagger}$
-- Instantswap: Fast customized concept swapping across sharp shape differences, **ICLR 2025** [[PDF]](https://arxiv.org/pdf/2412.01197) [[Code]](https://instantswap.github.io/)
+- Instantswap: Fast customized concept swapping across sharp shape differences, **ICLR 2025** [[PDF]](https://arxiv.org/pdf/2412.01197) 
   Chenyang Zhu$^{\*}$, Kai Li$^{\*}$$^{\dagger}$, Yue Ma$^{\*}$, Longxiang Tang, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Chubin Chen, Qifeng Chen, Xiu Li$^{\dagger}$
-- A Survey of Camouflaged Object Detection and Beyond, **CAAI AIR 2024** [[PDF]](https://www.arxiv.org/abs/2408.14562) [[Awesome List]](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)
+- A Survey of Camouflaged Object Detection and Beyond, **CAAI AIR 2024** [[PDF]](https://www.arxiv.org/abs/2408.14562) 
   Fengyang Xiao$^{\*}$, Sujie Hu$^{\*}$, Yuqi Shen, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Jinfa Huang, Chunming He$^{\dagger}$, Longxiang Tang, Ziyun Yang, Xiu Li$^{\dagger}$
-- A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning, **CVPR 2024** [[PDF]](https://arxiv.org/pdf/2403.02611) [[Code]](https://github.com/PieceZhang/MPT-CataBlur/)
+- A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning, **CVPR 2024** [[PDF]](https://arxiv.org/pdf/2403.02611)
   Yuelin Zhang, Pengyu Zheng, Wanquan Yan, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Shing Shin Cheng$^{\dagger}$
 
 _You can find more paper in my [Google Scholar](https://scholar.google.com/citations?user=EUT9kn8AAAAJ)._
