@@ -26,6 +26,7 @@ Currently, I am conducting research on Medical AI and Multimodal Large Language 
 <span style="color:PaleVioletRed;">I am currently seeking PhD positions for Fall 2027 and open to all forms of collaboration. Please feel free to contact me directly via email or Linkedin.</span>
 
 # 🔥 News
+- *2026.01*: &nbsp; One papers accepted to ICRA 2026. Congrats to Yuelin!
 - *2026.01*: &nbsp; Two papers accepted to ICLR 2026. Congrats to Zheng Jiang and Heng Guo!
 - *2025.06*: &nbsp; One paper accepted to TPAMI(IF=20.8). Congrats to Chunming!
 - *2025.05*: &nbsp; One paper accepted to ICML 2025. Congrats to Chunming!
@@ -82,6 +83,21 @@ Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$$^{\da
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/images/publication/medvr.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning](https://openreview.net/pdf?id=cK35kNVm5r)
+
+Zheng Jiang$^{\*}$, Heng Guo$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Changchen Xiao, Xinyang Hu, Lifeng Sun$^{\dagger}$, Minfeng Xu$^{\dagger}$
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- MedVR is the first end-to-end reinforcement learning framework that integrates visual and textual reasoning for medical VLMs, eliminating the need for costly intermediate supervision.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/images/publication/multicos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -106,6 +122,7 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 - A curated list of awesome Diffusion Models(DMs) in low-level vision.
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/images/publication/m3ret.jpeg' alt="sym" width="100%"></div></div>
@@ -181,9 +198,9 @@ _You can find more paper in my [Google Scholar](https://scholar.google.com/citat
 - *2023.07 - 2024.08*, Prof. Xiu Li’s [research group](https://thusigsclub.github.io/thu.github.io/index.html) at Tsinghua University, Shenzhen, China.
 
 
-[//]: # (# 🤝 Academic services)
+[//]: # (# 🤝 Academic Services)
 
-[//]: # (- *Conference Reviewer: * NeurIPS, ICLR, ICRA, ACM MM, ACM MM Asia, BMVC, )
+[//]: # (- *Conference Reviewer: * NeurIPS, ICLR, ICML, ICRA, ACM MM, ACM MM Asia, BMVC, ICMR)
 
 [//]: # (- *Journal Reviewer: * TCSVT, PR, )
 
