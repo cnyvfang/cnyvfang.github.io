@@ -46,7 +46,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
 ## Recommendation
 
-<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Spotlight⭐️</div><img src='images/images/publication/corun.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Spotlight⭐️</div><img src='images/images/publication/corun.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network](https://arxiv.org/pdf/2406.07966)
@@ -59,7 +59,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Spotlight⭐</div><img src='images/images/publication/reti-diff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Spotlight⭐</div><img src='images/images/publication/reti-diff.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model](https://arxiv.org/abs/2311.11638)
@@ -84,6 +84,21 @@ Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$$^{\da
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/images/publication/prism.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PRISM: Rethinking Scattered Atmosphere Reconstruction as a Unified Understanding and Generation Model for Real-world Dehazing
+](#)
+
+<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Chunming He, Yuelin Zhang, Chubin Chen, Chenyang Zhu, Longxiang Tang, and Xiu Li$^{\dagger}$
+
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- PRISM is a real-world dehazing framework that jointly reconstructs clear scenes and scattering variables, while bridging the sim2real domain gap through selective self-distillation and self-reinforcing prior.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/images/publication/medvr.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -97,21 +112,7 @@ Zheng Jiang$^{\*}$, Heng Guo$^{\*}$, <span style="color:PaleVioletRed;">Chengyu 
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/images/publication/multicos.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MultiCOS: Unlocking the Potential of Limited Multimodal Data in Camouflaged Object Segmentation](http://arxiv.org/abs/2502.14471)
-
-<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Chunming He$^{\*}$, Yuqi Shen, Chenyang Zhu, Yuelin Zhang, Fengyang Xiao, Longxiang Tang, Chubin Chen, Xiu Li$^{\dagger}$
-
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A novel framework that effectively leverages diverse data modalities to improve segmentation performance.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/images/publication/llv_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/images/publication/llv_survey.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Diffusion Models in Low-Level Vision: A Survey](https://arxiv.org/pdf/2406.11138)
@@ -123,6 +124,18 @@ Chunming He$^{\*}$$^{\dagger}$, Yuqi Shen$^{\*}$, <span style="color:PaleVioletR
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/images/publication/multicos.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MultiCOS: Unlocking the Potential of Limited Multimodal Data in Camouflaged Object Segmentation](http://arxiv.org/abs/2502.14471)
+
+<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Chunming He$^{\*}$, Yuqi Shen, Chenyang Zhu, Yuelin Zhang, Fengyang Xiao, Longxiang Tang, Chubin Chen, Xiu Li$^{\dagger}$
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A novel framework that effectively leverages diverse data modalities to improve segmentation performance.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/images/publication/m3ret.jpeg' alt="sym" width="100%"></div></div>
