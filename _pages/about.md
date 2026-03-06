@@ -175,22 +175,6 @@ You can find more paper in my [Google Scholar](https://scholar.google.com/citati
 [//]: # (  <br><span style="color:PaleVioletRed;">Chengyu Fang</span>, Xianfeng Han$^{\dagger}$)
 
 
-# 🎖 Honors and Awards
-- *2024.06* Chongqing Outstanding Graduates
-- *2024.04* Chongqing Merit Student
-- *2023.12* Southwest University Outstanding Student Representative
-- *2023.04* Chongqing Advanced Individual for Innovation Capability
-
-
-# 📃 Scholarships
-
-- *2023.12* National Scholarship
-- *2022.12* National Scholarship
-- *2023.12* Xiaomi Corporation Special Scholarship
-- *2023.12* Southwest University Special Scholarship 
-- *2022.07* Professor Qiu Yuhui Scholarship
-- *2022.07* Pisen Electronics Co. Ltd Scholarship
-- *2021.10* Southwest University First Prize Scholarship
 
 # 📖 Teaching
 
@@ -213,6 +197,23 @@ You can find more paper in my [Google Scholar](https://scholar.google.com/citati
 [//]: # (- *Conference Reviewer: * NeurIPS, ICLR, ICML, ICRA, ACM MM, ACM MM Asia, BMVC, ICMR)
 
 [//]: # (- *Journal Reviewer: * TCSVT, PR, )
+
+# 🎖 Honors and Awards
+- *2024.06* Chongqing Outstanding Graduates
+- *2024.04* Chongqing Merit Student
+- *2023.12* Southwest University Outstanding Student Representative
+- *2023.04* Chongqing Advanced Individual for Innovation Capability
+
+
+# 📃 Scholarships
+
+- *2023.12* National Scholarship
+- *2022.12* National Scholarship
+- *2023.12* Xiaomi Corporation Special Scholarship
+- *2023.12* Southwest University Special Scholarship
+- *2022.07* Professor Qiu Yuhui Scholarship
+- *2022.07* Pisen Electronics Co. Ltd Scholarship
+- *2021.10* Southwest University First Prize Scholarship
 
 
 # 🏁 Competition
