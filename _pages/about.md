@@ -19,11 +19,11 @@ redirect_from:
 
 # ☕️ About Me
 
-I am a second-year master student at Institute of Data and Information, Tsinghua University, under the supervision of <a href="https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&amp;hl=en">Prof. Xiu Li</a>. 
-Previously, I obtained my B.Eng in Software Engineering at School of Computer and Information Science & School of Software Engineering, Southwest University in 2024.
-Currently, I am conducting research on Medical AI and Multimodal Large Language Models at the Alibaba DAMO Academy as a research intern. My research interests include **Real World Oriented Computer Vision**, **Efficient MLLM**, and **Medical AI**.
+I am a second-year master student at Institute of Data and Information, Tsinghua University, under the supervision of <a href="https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&amp;hl=en">Prof. Xiu Li</a>.
+I earned my B.Eng. in Software Engineering from Southwest University in 2024, graduating with the honors of "Special Scholarship" and "Outstanding Student Representative".
+Currently, I am conducting research on Medical AI and Multimodal Large Language Models at the Alibaba DAMO Academy as a research scientist intern. My research interests include **Real World Oriented Computer Vision** and **Efficient MLLM**.
 
-<span style="color:PaleVioletRed;">I am currently seeking PhD positions for Fall 2027 and open to all forms of collaboration. Please feel free to contact me directly via email or Linkedin.</span>
+<span style="color:PaleVioletRed;">_I am currently seeking PhD positions for Fall 2027 and open to all forms of collaboration._</span>
 
 # 🔥 News
 - *2026.01*: &nbsp; Two papers accepted to ICLR 2026. Congrats to Zheng Jiang and Heng Guo!
@@ -32,7 +32,6 @@ Currently, I am conducting research on Medical AI and Multimodal Large Language 
 - *2025.02*: &nbsp; One paper has been selected as a **Spotlight Paper** to the ICLR 2025.
 - *2025.01*: &nbsp; Two papers accepted to ICLR 2025. Congrats to Chunming, Chenyang!
 - *2024.09*: &nbsp; One paper accepted to NeurIPS 2024 as a **Spotlight Paper**.
-- *2024.06*: &nbsp; I graduated from Southwest University and received the honor of "Southwest University Outstanding Student Representative" and "Speical Scholarship".
 
 [//]: # (- *2023.04*: &nbsp; One paper accepted to ICMR 2023.)
  
