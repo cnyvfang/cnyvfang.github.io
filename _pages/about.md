@@ -26,17 +26,13 @@ Currently, I am conducting research on Medical AI and Multimodal Large Language 
 <span style="color:PaleVioletRed;">I am currently seeking PhD positions for Fall 2027 and open to all forms of collaboration. Please feel free to contact me directly via email or Linkedin.</span>
 
 # 🔥 News
-- *2026.01*: &nbsp; One papers accepted to ICRA 2026. Congrats to Yuelin!
 - *2026.01*: &nbsp; Two papers accepted to ICLR 2026. Congrats to Zheng Jiang and Heng Guo!
 - *2025.06*: &nbsp; One paper accepted to TPAMI(IF=20.8). Congrats to Chunming!
-- *2025.05*: &nbsp; One paper accepted to ICML 2025. Congrats to Chunming!
 - *2025.02*: &nbsp; One paper accepted to IEEE TPAMI(IF=20.8). Congrats to Chunming and Yuqi!
 - *2025.02*: &nbsp; One paper has been selected as a **Spotlight Paper** to the ICLR 2025.
-- *2025.01*: &nbsp; Two papers accepted to ICLR 2025. One paper accepted to ICRA 2025. Congrats to Chunming, Chenyang and Yuelin!
-- *2024.12*: &nbsp; One paper accepted to CAAI AIR. Congrats to Fengyang and Sujie, this research was reported by EureAlert!
+- *2025.01*: &nbsp; Two papers accepted to ICLR 2025. Congrats to Chunming, Chenyang!
 - *2024.09*: &nbsp; One paper accepted to NeurIPS 2024 as a **Spotlight Paper**.
-- *2024.06*: &nbsp; I graduated from Southwest University and received the honor of "Southwest University Outstanding Student Representative".
-- *2024.02*: &nbsp; One paper accepted to CVPR 2024, Congrats to Yuelin.
+- *2024.06*: &nbsp; I graduated from Southwest University and received the honor of "Southwest University Outstanding Student Representative" and "Speical Scholarship".
 
 [//]: # (- *2023.04*: &nbsp; One paper accepted to ICMR 2023.)
  
@@ -156,6 +152,8 @@ Che Liu$^{\*}$, Zheng Jiang$^{\*}$, <span style="color:PaleVioletRed;">Chengyu F
 
 [//]: # (- MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning, **ICLR 2026** [[PDF]]&#40;https://openreview.net/pdf?id=cK35kNVm5r&#41;)
 [//]: # (  Zheng Jiang, Heng Guo, Chengyu Fang, Changchen Xiao, Xinyang Hu, Lifeng Sun, Minfeng Xu)
+- Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning, **CVPR 2026** [[PDF]](https://arxiv.org/pdf/2512.24146)
+  Chubin Chen$^{\*}$, Sujie Hu$^{\*}$, Jiashu Zhu, Meiqi Wu, Jintao Chen, Yanxun Li, Nisha Huang, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Jiahong Wu, Xiangxiang Chu, Xiu Li$^{\dagger}$
 - Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement, **arXiv 2025** [[PDF]](https://arxiv.org/pdf/2506.10712/) 
   Yuqi Shen$^{\*}$, Fengyang Xiao$^{\*}$, Sujie Hu, Youwei Pang, Yifan Pu, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Xiu Li, Chunming He 
 - Segment Concealed Objects with Incomplete Supervision, **TPAMI 2025** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11023026/)
@@ -171,7 +169,7 @@ Che Liu$^{\*}$, Zheng Jiang$^{\*}$, <span style="color:PaleVioletRed;">Chengyu F
 - A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning, **CVPR 2024** [[PDF]](https://arxiv.org/pdf/2403.02611)
   Yuelin Zhang, Pengyu Zheng, Wanquan Yan, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Shing Shin Cheng$^{\dagger}$
 
-_You can find more paper in my [Google Scholar](https://scholar.google.com/citations?user=EUT9kn8AAAAJ)._
+You can find more paper in my [Google Scholar](https://scholar.google.com/citations?user=EUT9kn8AAAAJ)._
 
 [//]: # (- Joint Geometric-Semantic Driven Character Line Drawing Generation, **ACM ICMR 2023** [[PDF]]&#40;https://dl.acm.org/doi/10.1145/3591106.3592216&#41; [[Code]]&#40;https://github.com/cnyvfang/P2LDGAN/&#41;)
 
