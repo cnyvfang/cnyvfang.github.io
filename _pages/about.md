@@ -147,7 +147,7 @@ Che Liu$^{\*}$, Zheng Jiang$^{\*}$, <span style="color:PaleVioletRed;">Chengyu F
 
 [//]: # (## More Under Review)
 
-## More Selected Papers
+## More Selected Publications
 
 [//]: # (- MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning, **ICLR 2026** [[PDF]]&#40;https://openreview.net/pdf?id=cK35kNVm5r&#41;)
 [//]: # (  Zheng Jiang, Heng Guo, Chengyu Fang, Changchen Xiao, Xinyang Hu, Lifeng Sun, Minfeng Xu)
