@@ -178,7 +178,7 @@ You can find more paper in my [Google Scholar](https://scholar.google.com/citati
 # 🎖 Honors and Awards
 - *2024.06* Chongqing Outstanding Graduates
 - *2024.04* Chongqing Merit Student
-- *2023.12* Southwest University Outstanding Student Representative (15/University Students)
+- *2023.12* Southwest University Outstanding Student Representative
 - *2023.04* Chongqing Advanced Individual for Innovation Capability
 
 
@@ -186,10 +186,10 @@ You can find more paper in my [Google Scholar](https://scholar.google.com/citati
 
 - *2023.12* National Scholarship
 - *2022.12* National Scholarship
-- *2023.12* Xiaomi Corporation Special Scholarship (7/University Students)
-- *2023.12* Southwest University Special Scholarship (15/University Students)
-- *2022.07* Professor Qiu Yuhui Scholarship (5/Department Students)
-- *2022.07* Pisen Electronics Co. Ltd Scholarship (5/Department Students)
+- *2023.12* Xiaomi Corporation Special Scholarship
+- *2023.12* Southwest University Special Scholarship 
+- *2022.07* Professor Qiu Yuhui Scholarship
+- *2022.07* Pisen Electronics Co. Ltd Scholarship
 - *2021.10* Southwest University First Prize Scholarship
 
 # 📖 Teaching
