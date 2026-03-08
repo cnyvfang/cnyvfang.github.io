@@ -85,7 +85,7 @@ Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$$^{\da
 [PRISM: Rethinking Scattered Atmosphere Reconstruction as a Unified Understanding and Generation Model for Real-world Dehazing
 ](#)
 
-<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Chunming He, Yuelin Zhang, Chubin Chen, Chenyang Zhu, Longxiang Tang, and Xiu Li$^{\dagger}$
+<span style="color:PaleVioletRed;">Chengyu Fang</span>, Chunming He, Yuelin Zhang, Chubin Chen, Chenyang Zhu, Longxiang Tang, and Xiu Li$^{\dagger}$
 
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
