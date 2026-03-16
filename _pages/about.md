@@ -41,6 +41,19 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
 ## Recommendation
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/images/publication/photon.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Photon: Speedup Volume Understanding with Efficient Multimodal Large Language Models](https://openreview.net/pdf?id=xsSJw6jJBL)
+
+<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Heng Guo$^{\*}$, Zheng Jiang, Chunming He, Xiu Li$^{\dagger}$, Minfeng Xu$^{\dagger}$
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Photon is a variable-length 3D medical VQA framework with instruction-conditioned token scheduling and surrogate gradients, achieving adaptive acceleration and state-of-the-art performance.
+</div>
+</div>
+
+
 <div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Spotlight⭐️</div><img src='images/images/publication/corun.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,19 +78,6 @@ Chunming He$^{\*}$, <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$$^{\da
 - The first latent diffusion model-based methods with strong generalizability in illumination degradation image restoration problems and promising performance in downstream tasks.
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/images/publication/photon.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Photon: Speedup Volume Understanding with Efficient Multimodal Large Language Models](https://openreview.net/pdf?id=xsSJw6jJBL)
-
-<span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Heng Guo$^{\*}$, Zheng Jiang, Chunming He, Xiu Li$^{\dagger}$, Minfeng Xu$^{\dagger}$
-
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Photon is a variable-length 3D medical VQA framework with instruction-conditioned token scheduling and surrogate gradients, achieving adaptive acceleration and state-of-the-art performance.
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/images/publication/prism.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
