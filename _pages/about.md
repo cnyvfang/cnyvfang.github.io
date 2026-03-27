@@ -44,7 +44,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/images/publication/photon.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Photon: Speedup Volume Understanding with Efficient Multimodal Large Language Models](https://openreview.net/pdf?id=xsSJw6jJBL)
+[Photon: Speedup Volume Understanding with Efficient Multimodal Large Language Models](https://arxiv.org/pdf/2603.25155)
 
 <span style="color:PaleVioletRed;">Chengyu Fang$^{\*}$</span>, Heng Guo$^{\*}$, Zheng Jiang, Chunming He, Xiu Li$^{\dagger}$, Minfeng Xu$^{\dagger}$
 
