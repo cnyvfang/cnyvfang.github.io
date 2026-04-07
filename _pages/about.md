@@ -19,7 +19,7 @@ redirect_from:
 
 # ☕️ About Me
 
-I am currently a second-year master’s student at the Institute of Data and Information, Tsinghua University, advised by <a href="https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&amp;hl=en">Prof. Xiu Li</a>. I previously worked on MLLM post-training at Alibaba DAMO Academy as a Research Scientist Intern. 
+I am a second-year master’s student at the Institute of Data and Information, Tsinghua University, advised by <a href="https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&amp;hl=en">Prof. Xiu Li</a>. I previously worked on MLLM post-training at Alibaba DAMO Academy as a Research Scientist Intern. 
 Before that, I received my B.Eng. degree in Software Engineering from Southwest University in 2024, where I graduated with the “Special Scholarship” and the title of “Outstanding Student Representative.”
 My research interests revolve around the intersection of real-world oriented vision perception and generation, and MLLM post-training.
 
