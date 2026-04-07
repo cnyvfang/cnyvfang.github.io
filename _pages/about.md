@@ -188,7 +188,7 @@ You can find more paper in my [Google Scholar](https://scholar.google.com/citati
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 💻 Internships
-- *2025.04 - Present*, Research Scientist Intern, DAMO Academy, Alibaba Group.
+- *2025.04 - 2026.04*, Research Scientist Intern, DAMO Academy, Alibaba Group.
 - *2023.07 - 2024.08*, Research Assistant, Prof. Xiu Li’s [research group](https://thusigsclub.github.io/thu.github.io/index.html) at Tsinghua University.
 
 
