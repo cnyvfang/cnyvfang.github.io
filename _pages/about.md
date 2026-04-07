@@ -200,13 +200,13 @@ You can find more paper in my [Google Scholar](https://scholar.google.com/citati
 
 # 🎖 Honors and Awards
 - *2024.06* Chongqing Outstanding Graduates
+- *2024.05* Representative of National Scholarship (Published in China’s official media People’s Daily).
 - *2024.04* Chongqing Merit Student
 - *2023.12* Southwest University Outstanding Student Representative
 - *2023.04* Chongqing Advanced Individual for Innovation Capability
 
 
 # 📃 Scholarships
-
 - *2023.12* National Scholarship
 - *2022.12* National Scholarship
 - *2023.12* Xiaomi Corporation Special Scholarship
