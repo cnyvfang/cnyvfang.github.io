@@ -20,8 +20,14 @@ redirect_from:
 # ☕️ About Me
 
 I am a second-year master student at Institute of Data and Information, Tsinghua University, under the supervision of <a href="https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&amp;hl=en">Prof. Xiu Li</a>.
+Previously, I am conducting research on MLLM post-training at the Alibaba DAMO Academy as a research scientist intern. My research interests include **Real World Oriented Computer Vision** and **MLLM Post-training**.
 I earned my B.Eng. in Software Engineering from Southwest University in 2024, graduating with the honors of "Special Scholarship" and "Outstanding Student Representative".
-Currently, I am conducting research on Medical AI and Multimodal Large Language Models at the Alibaba DAMO Academy as a research scientist intern. My research interests include **Real World Oriented Computer Vision** and **MLLM Post-training**.
+
+
+
+I am currently a second-year master’s student at the Institute of Data and Information, Tsinghua University, advised by Prof. Xiu Li. I previously worked on MLLM post-training at Alibaba DAMO Academy as a Research Scientist Intern. 
+Before that, I received my B.Eng. degree in Software Engineering from Southwest University in 2024, where I graduated with the “Special Scholarship” and the title of “Outstanding Student Representative.”
+My research interests revolve around the intersection of real-world oriented vision perception and generation, and MLLM post-training.
 
 <span style="color:PaleVioletRed;">_I am currently seeking PhD positions for Fall 2027 and open to all forms of collaboration._</span>
 
@@ -168,7 +174,7 @@ Che Liu$^{\*}$, Zheng Jiang$^{\*}$, <span style="color:PaleVioletRed;">Chengyu F
 - A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning, **CVPR 2024** [[PDF]](https://arxiv.org/pdf/2403.02611)
   Yuelin Zhang, Pengyu Zheng, Wanquan Yan, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Shing Shin Cheng$^{\dagger}$
 
-You can find more paper in my [Google Scholar](https://scholar.google.com/citations?user=EUT9kn8AAAAJ)._
+You can find more paper in my [Google Scholar](https://scholar.google.com/citations?user=EUT9kn8AAAAJ).
 
 [//]: # (- Joint Geometric-Semantic Driven Character Line Drawing Generation, **ACM ICMR 2023** [[PDF]]&#40;https://dl.acm.org/doi/10.1145/3591106.3592216&#41; [[Code]]&#40;https://github.com/cnyvfang/P2LDGAN/&#41;)
 
