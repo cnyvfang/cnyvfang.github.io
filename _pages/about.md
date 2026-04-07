@@ -229,6 +229,10 @@ You can find more paper in my [Google Scholar](https://scholar.google.com/citati
 - *2022.06* 🥈2nd Prize of 2022 China University Robot Competition (RoboMaster RMUT)
 - *2023.08* 🥉3rd Prize in Chinese Collegiate Computing Competition
 
+# 💬 Invited Talk
+
+- *2026.04* ICLR Paper Pre-presentation, AI Time X DAMO Developer Matrix.
+
 # 🧑‍🤝‍🧑 My Friends, Collaborators, and Long-term Cooperative Professors
 - <a href="https://chunminghe.github.io">Chunming He</a>@Duke,  <a href="https://scholar.google.com/citations?hl=en&user=3oMQsq8AAAAJ">Longxiang Tang</a>@HKUST,  <a href="https://scholar.google.com/citations?user=Q5DbNDoAAAAJ&hl=en">Yuelin Zhang</a>@CUHK, [Assoc. Prof. Yulun Zhang](https://yulunzhang.com)@SJTU.
 
