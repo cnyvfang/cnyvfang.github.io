@@ -213,7 +213,7 @@ You can find more paper in my [Google Scholar](https://scholar.google.com/citati
 - *2023.12* Southwest University Special Scholarship
 - *2022.07* Professor Qiu Yuhui Scholarship
 - *2022.07* Pisen Electronics Co. Ltd Scholarship
-- *2021.10* Southwest University First Prize Scholarship
+- *2021.10* Southwest University First Class Scholarship
 
 
 # 🏁 Competition
