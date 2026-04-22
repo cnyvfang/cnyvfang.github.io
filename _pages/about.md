@@ -149,8 +149,6 @@ Che Liu$^{\*}$, Zheng Jiang$^{\*}$, <span style="color:PaleVioletRed;">Chengyu F
 
 ## More Selected Publications
 
-[//]: # (- MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning, **ICLR 2026** [[PDF]]&#40;https://openreview.net/pdf?id=cK35kNVm5r&#41;)
-[//]: # (  Zheng Jiang, Heng Guo, Chengyu Fang, Changchen Xiao, Xinyang Hu, Lifeng Sun, Minfeng Xu)
 - Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning, **CVPR 2026** [[PDF]](https://arxiv.org/pdf/2512.24146)
   Chubin Chen$^{\*}$, Sujie Hu$^{\*}$, Jiashu Zhu, Meiqi Wu, Jintao Chen, Yanxun Li, Nisha Huang, <span style="color:PaleVioletRed;">Chengyu Fang</span>, Jiahong Wu, Xiangxiang Chu, Xiu Li$^{\dagger}$
 - Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement, **arXiv 2025** [[PDF]](https://arxiv.org/pdf/2506.10712/) 
@@ -231,7 +229,7 @@ You can find more paper in my [Google Scholar](https://scholar.google.com/citati
 
 # 💬 Invited Talk
 
-- *2026.04* ICLR Paper Pre-presentation, AI TIME
+- *2026.04* "Speedup Volume Understanding with Efficient Multimodal Large Language Models", AI TIME
 
 # 🧑‍🤝‍🧑 My Friends, Collaborators, and Long-term Cooperative Professors
 - <a href="https://chunminghe.github.io">Chunming He</a>@Duke,  <a href="https://scholar.google.com/citations?hl=en&user=3oMQsq8AAAAJ">Longxiang Tang</a>@HKUST,  <a href="https://scholar.google.com/citations?user=Q5DbNDoAAAAJ&hl=en">Yuelin Zhang</a>@CUHK, [Assoc. Prof. Yulun Zhang](https://yulunzhang.com)@SJTU.
